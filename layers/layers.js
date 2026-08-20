@@ -74,9 +74,7 @@ var lyr_planned_4 = new ol.layer.Vector({
                 popuplayertitle: 'planned',
                 interactive: true,
     title: 'planned<br />\
-    <img src="styles/legend/planned_4_0.png" /> Hub<br />\
-    <img src="styles/legend/planned_4_1.png" /> Swap<br />\
-    <img src="styles/legend/planned_4_2.png" /> <br />' });
+    <img src="styles/legend/planned_4_0.png" /> Hub<br />' });
 
 lyr_GoogleSatellite_0.setVisible(true);lyr_malawilocationscores_1.setVisible(true);lyr_malawidistricts_2.setVisible(true);lyr_Station_Details_Lat_Long_3.setVisible(true);lyr_planned_4.setVisible(true);
 var layersList = [lyr_GoogleSatellite_0,lyr_malawilocationscores_1,lyr_malawidistricts_2,lyr_Station_Details_Lat_Long_3,lyr_planned_4];
